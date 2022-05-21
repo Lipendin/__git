@@ -18,3 +18,4 @@
 - git push
 - git pull
 - git clone
+- git graph (git log)
