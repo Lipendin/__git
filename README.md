@@ -7,7 +7,7 @@
 - git commit -m "*"
 - git add .
 - git restore .
-- git commit -a -m "*" = (git add . + git commit -m "*")
+
 - git reset
 - git rm
 - git checkout
