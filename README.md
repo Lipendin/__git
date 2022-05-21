@@ -11,11 +11,10 @@
 - git reset
 - git rm
 - git checkout
-
-Ветки
-
 - git branch
 - git branch new-branch
 - git checkout
 - git merge
 - git push
+- git pull
+- git clone
