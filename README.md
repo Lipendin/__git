@@ -18,3 +18,4 @@
 - git branch new-branch
 - git checkout
 - git merge
+- git push
