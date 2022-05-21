@@ -17,3 +17,4 @@
 - git branch
 - git branch new-branch
 - git checkout
+- git merge
